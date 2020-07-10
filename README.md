@@ -1,1 +1,1 @@
-![](Untitled-design-1.png=400x200)
+![](Untitled-design-1.png)
