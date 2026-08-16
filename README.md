@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurpessoa/arthurpessoa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurpessoa/arthurpessoa/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contribution grid" src="https://raw.githubusercontent.com/arthurpessoa/arthurpessoa/output/github-contribution-grid-snake.svg">
+</picture>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arthurpessoa.arthurpessoa" alt="visitors" />
   <a href="https://github.com/ellerbrock/open-source-badge/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" /></a>
@@ -17,14 +21,6 @@ class PrincipalSoftwareEngineer {
 
 fun main() = PrincipalSoftwareEngineer().sayHi()
 ```
-
-## 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurpessoa/arthurpessoa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurpessoa/arthurpessoa/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating my contribution grid" src="https://raw.githubusercontent.com/arthurpessoa/arthurpessoa/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## 🔧 Technologies & Tools
 
