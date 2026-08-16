@@ -18,6 +18,14 @@ class PrincipalSoftwareEngineer {
 fun main() = PrincipalSoftwareEngineer().sayHi()
 ```
 
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurpessoa/arthurpessoa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurpessoa/arthurpessoa/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contribution grid" src="https://raw.githubusercontent.com/arthurpessoa/arthurpessoa/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🔧 Technologies & Tools
 
 **Programming Languages:**
@@ -80,18 +88,6 @@ fun main() = PrincipalSoftwareEngineer().sayHi()
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=6aa6f8)
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=6aa6f8)
 
-## 📈 GitHub Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurpessoa&theme=nord_dark" alt="Profile details" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurpessoa&theme=nord_dark" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurpessoa&theme=nord_dark" alt="Most commit language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurpessoa&theme=nord_dark" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arthurpessoa&theme=nord_dark&utcOffset=-3" alt="Productive time" />
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arthurpessoa&theme=nord&hide_border=true)](https://git.io/streak-stats)
-
 ## 🗂️ Highlight Projects
 
 | Project | What it is | Stack |
@@ -101,11 +97,3 @@ fun main() = PrincipalSoftwareEngineer().sayHi()
 | [bevy_netcode](https://github.com/arthurpessoa/bevy_netcode) | Ergonomic netcode for Bevy | ![Rust](https://img.shields.io/badge/-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8) ![Bevy](https://img.shields.io/badge/-Bevy-informational?style=flat&logo=bevy&logoColor=white&color=6aa6f8) |
 | [spring-cloud-stream-reactive](https://github.com/arthurpessoa/spring-cloud-stream-reactive) | Spring Cloud Stream with Project Reactor | ![Java](https://img.shields.io/badge/-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8) ![Spring](https://img.shields.io/badge/-Spring-informational?style=flat&logo=spring&logoColor=white&color=6aa6f8) |
 | [lagnarok](https://github.com/arthurpessoa/lagnarok) | Network lag prediction and latency optimizations | ![C++](https://img.shields.io/badge/-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8) |
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurpessoa/arthurpessoa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurpessoa/arthurpessoa/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating my contribution grid" src="https://raw.githubusercontent.com/arthurpessoa/arthurpessoa/output/github-contribution-grid-snake.svg">
-</picture>
